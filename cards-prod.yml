@@ -1,0 +1,12 @@
+
+    
+build:
+  version: "3.0"
+  
+accounts:
+  Messsage: "Welcome to Card MS - prod"
+  ContactDetails:
+    name: "prod"
+    email: "prod@gmail.com"
+  onCallSupport:
+    -7982010520
