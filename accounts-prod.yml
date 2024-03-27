@@ -6,6 +6,6 @@ accounts:
   Messsage: "Welcome to accounts MS - prod"
   ContactDetails:
     name: "prod"
-    email: "2b76e5da3bf89b1939ecd8742c6c99a48a4ea95ff9e26d7e931d3a093321a538"
+    email: "{cipher}2b76e5da3bf89b1939ecd8742c6c99a48a4ea95ff9e26d7e931d3a093321a538"
   onCallSupport:
     -7982010520
